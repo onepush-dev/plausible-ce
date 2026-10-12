@@ -1,6 +1,6 @@
 # Plausible Community Edition — lightweight, privacy-friendly Google Analytics alternative. Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/M9GUKc)
 
 ## Services
 | Service | Source | Notes |
